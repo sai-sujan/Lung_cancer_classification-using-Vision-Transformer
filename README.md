@@ -74,9 +74,6 @@ The Vision Transformer (ViT) model architecture is used for image classification
 
 1. Execute the Jupyter Notebook provided in the repository to train the model:
 
-    ```sh
-    jupyter notebook lung_cancer_classification.ipynb
-    ```
 
 2. After training, the model will be saved in the `vit-lung-cancer-model` directory with the following files:
     - `config.json`
