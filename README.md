@@ -23,17 +23,17 @@ The Vision Transformer (ViT) model architecture is used for image classification
 
 ## Application Screenshot
 
-![Streamlit Web Application](<img width="1049" alt="streamlit-website" src="https://github.com/user-attachments/assets/423fa1b7-8fb4-4988-95b0-a685065476f2">)
+![Streamlit Web Application](https://github.com/user-attachments/assets/423fa1b7-8fb4-4988-95b0-a685065476f2)
 
 ### Example Images
 
-![Example 1](<img width="215" alt="ex-1" src="https://github.com/user-attachments/assets/c657d535-8674-4713-a47c-ae35e237ff02">)
+![Example 1](https://github.com/user-attachments/assets/c657d535-8674-4713-a47c-ae35e237ff02)
 *Example 1: A sample lung cancer image.*
 
-![Example 2](<img width="225" alt="ex-2" src="https://github.com/user-attachments/assets/3e69bfb1-8f30-4c07-9b57-aa16dae884c9">)
+![Example 2](https://github.com/user-attachments/assets/3e69bfb1-8f30-4c07-9b57-aa16dae884c9)
 *Example 2: A lung cancer image with patches overlaid.*
 
-![Transformer Workflow](<img width="631" alt="transformer-workflow" src="https://github.com/user-attachments/assets/ebf0dd43-67c7-4f30-aaaa-cf7de06539d1">)
+![Transformer Workflow](https://github.com/user-attachments/assets/ebf0dd43-67c7-4f30-aaaa-cf7de06539d1)
 *Vision Transformer Workflow: Patch extraction, position embedding, and transformer encoder layers.*
 
 ## Running the Application
@@ -90,5 +90,4 @@ The Vision Transformer (ViT) model architecture is used for image classification
 
 3. Upload an image of a lung cancer case or use one of the provided example cases to see the classification result.
 
-## Repository Structure
 
