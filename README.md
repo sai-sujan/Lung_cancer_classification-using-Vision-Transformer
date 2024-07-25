@@ -27,11 +27,16 @@ The Vision Transformer (ViT) model architecture is used for image classification
 
 ### Example Images
 
-![Example 1](https://github.com/user-attachments/assets/c657d535-8674-4713-a47c-ae35e237ff02)
-*Example 1: A sample lung cancer image.*
-
-![Example 2](https://github.com/user-attachments/assets/3e69bfb1-8f30-4c07-9b57-aa16dae884c9)
-*Example 2: A lung cancer image with patches overlaid.*
+<div style="display: flex; justify-content: space-around;">
+    <div style="text-align: center;">
+        <img src="https://github.com/user-attachments/assets/c657d535-8674-4713-a47c-ae35e237ff02" width="300"/>
+        <p>Example 1: A sample lung cancer image.</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="https://github.com/user-attachments/assets/3e69bfb1-8f30-4c07-9b57-aa16dae884c9" width="300"/>
+        <p>Example 2: A lung cancer image with patches overlaid.</p>
+    </div>
+</div>
 
 ![Transformer Workflow](https://github.com/user-attachments/assets/ebf0dd43-67c7-4f30-aaaa-cf7de06539d1)
 *Vision Transformer Workflow: Patch extraction, position embedding, and transformer encoder layers.*
