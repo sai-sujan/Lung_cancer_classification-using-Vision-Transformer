@@ -85,7 +85,7 @@ The Vision Transformer (ViT) model architecture is used for image classification
     ```sh
     streamlit run app.py
     ```
-
+    
 2. Open your web browser and navigate to `http://localhost:8501`.
 
 3. Upload an image of a lung cancer case or use one of the provided example cases to see the classification result.
